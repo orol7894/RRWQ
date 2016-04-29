@@ -1,0 +1,3 @@
+C:\Users\성규\Desktop\Xerath\bin\Debug\Xerath.exe.config
+C:\Users\성규\Desktop\XXerath\bin\Debug\Xerath.exe.config
+C:\Users\성규\Desktop\Xerath 엘버\bin\Debug\Xerath.exe.config
